@@ -1,0 +1,27 @@
+/* 
+    Created on : Dec 14, 2021, 2:04:48 AM
+    Author     : Osvaldo
+*/
+a {
+    text-decoration: none;
+}
+
+#navbar_container {
+    background-color: #e3f2fd;
+}
+
+#reg_form div {
+    border-radius: 5px;
+}
+
+#reg_form > div:nth-child(odd) {
+    background-color: #ffeede;
+}
+
+form p {
+    margin: 2px 0;
+}
+
+.form_end p {
+    padding-left: 1px;
+}
